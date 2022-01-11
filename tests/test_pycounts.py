@@ -1,4 +1,4 @@
-from pycounts.pycounts import count_words
+from pycounts_harryyik.pycounts_harryyik import count_words
 from collections import Counter
 
 def test_count_words():

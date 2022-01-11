@@ -1,11 +1,10 @@
 [tool.poetry]
-name = "pycounts"
+name = "pycounts_harryyik"
 version = "0.1.0"
 description = "Calculate word counts in a text file!"
 authors = ["Harry Chan"]
 license = "MIT"
 readme = "README.md"
-
 [tool.poetry.dependencies]
 python = "^3.9"
 matplotlib = "^3.5.1"
